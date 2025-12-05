@@ -1,1 +1,2 @@
 # Diabetic-Retinopathy-Detection
+The methodology involves a multi-stage approach, beginning with a thorough pre-processing phase that encompasses cropping the image, color conversion, filtering, and adjusting the brightness. Subsequently, an improved pooling function extracts discriminative features from the pre-processed images. These features serve as input for training a Convolutional Neural Network (CNN) based on the Efficient Net architecture.
